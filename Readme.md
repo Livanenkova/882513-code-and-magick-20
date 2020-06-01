@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Arina Livanenkova](https://up.htmlacademy.ru/javascript/20/user/882513).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Деев`.
 
 ---
 
