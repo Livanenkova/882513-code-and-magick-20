@@ -1,5 +1,5 @@
 'use strict';
-
+(function () {
 var CLOUD_WIDTH = 420;
 var CLOUD_HEIGHT = 270;
 var CLOUD_X = 100;
@@ -52,3 +52,4 @@ window.renderStatistics = function (ctx, players, times) {
     ctx.fillRect(CLOUD_X + BAR_GAP + (BAR_GAP + BAR_HEIGHT) * i, CLOUD_Y + (BAR_GAP * 4) + GAP + GAP + GAP, BAR_WIDTH, -(barHeight * times[i]) / maxTime);
   }
 };
+})();
