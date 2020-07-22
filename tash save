@@ -1,0 +1,76 @@
+[33mcommit 412a5d1fe66489fd873208585fd09797c93bee6d[m[33m ([m[1;36mHEAD -> [m[1;32mmodule5-task1[m[33m, [m[1;31morigin/module5-task1[m[33m)[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Tue Jul 21 14:46:25 2020 +0300
+
+    added util, dialog and colorize modules. Fixed the functions of opening and closing a modal window, taking into account division into modules
+    добавила модули util , dialog и colorize. Поправила функции открытия и закрытия модального окна, с учетом деления на модули
+
+[33mcommit d805d8ac750c426c88287fd735dde5b2e74a4d21[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31macademy/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: e5aa472 ee70118
+Author: Keks <keksobot@users.noreply.github.com>
+Date:   Wed Jul 8 09:13:19 2020 +0300
+
+    Merge pull request #4 from Livanenkova/module4-task1
+
+[33mcommit ee70118a0d62ba74e7fdab9e6707a9dcb2bcdc73[m[33m ([m[1;31morigin/module4-task1[m[33m, [m[1;32mmodule4-task1[m[33m)[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Mon Jul 6 15:04:38 2020 +0300
+
+    do home work
+
+[33mcommit e5aa472db0198db32bc27e976087d9f168cc5625[m
+Merge: 1c99258 4070755
+Author: Keks <keksobot@users.noreply.github.com>
+Date:   Tue Jun 16 06:22:16 2020 +0300
+
+    Merge pull request #3 from Livanenkova/module3-task1
+
+[33mcommit 40707555604c6240872d14e05371dc8d1ec60fe0[m[33m ([m[1;31morigin/module3-task1[m[33m, [m[1;32mmodule3-task1[m[33m)[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Mon Jun 15 21:51:17 2020 +0300
+
+    add home work
+
+[33mcommit 1c99258a052dbf287138aac8beb9381637cc3487[m[33m ([m[1;31macademy1/master[m[33m)[m
+Merge: 05a8f73 cc000fe
+Author: Keks <keksobot@users.noreply.github.com>
+Date:   Sat Jun 6 14:50:32 2020 +0300
+
+    Merge pull request #2 from Livanenkova/module2-task1
+
+[33mcommit cc000fe0980eb3f0ad9e216e6d6942510ed7d219[m[33m ([m[1;31morigin/module2-task1[m[33m, [m[1;32mmodule2-task1[m[33m)[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Thu Jun 4 17:22:47 2020 +0300
+
+    home work
+
+[33mcommit 05a8f73bf28caf4f43ddd4d27186c04396a65c77[m
+Merge: 0e51f42 b96b556
+Author: Keks <keksobot@users.noreply.github.com>
+Date:   Mon Jun 1 10:41:36 2020 +0300
+
+    Merge pull request #1 from Livanenkova/module1-task2
+
+[33mcommit 0e51f42a135fb1c3fca82a822b50db7eab0c1d54[m
+Author: Keks <keks@htmlacademy.ru>
+Date:   Sun May 31 11:30:21 2020 +0300
+
+    :cat:
+
+[33mcommit b96b5568338c7b981f3192fa3618a13029e0907f[m[33m ([m[1;31morigin/module1-task2[m[33m, [m[1;32mmodule1-task2[m[33m)[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Fri May 29 15:19:32 2020 +0300
+
+    add homework
+
+[33mcommit 845bd10d642f739e9da897a7ab00d26173534dd6[m
+Author: Livanenkova <arina909@yandex.ru>
+Date:   Fri May 29 15:10:42 2020 +0300
+
+    home work
+
+[33mcommit 7b96c7548535a175c4401534a30a18b42d589c9a[m
+Author: Keks <keks@htmlacademy.ru>
+Date:   Fri May 29 11:23:50 2020 +0300
+
+    :hatching_chick:
