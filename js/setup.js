@@ -8,11 +8,12 @@
     'rgb(215, 210, 55)', 'rgb(0, 0, 0)'];
   var EYES_COLOR = ['black', 'red', 'blue', 'yellow', 'green'];
   var FIREBALL_COLORS = ['#ee4830', '#30a8ee', '#5ce6c0', '#e848d5', '#e6e848'];
+    var setup = document.querySelector('.setup');
 
-  var userDialog = document.querySelector('.setup');
-  userDialog.classList.remove('hidden');
+  // var userDialog = document.querySelector('.setup');
+  setup.classList.remove('hidden');
 
-  var similarListElement = userDialog.querySelector('.setup-similar-list');
+  var similarListElement = setup.querySelector('.setup-similar-list');
   var similarWizardTemplate = document.querySelector('#similar-wizard-template')
   .content
   .querySelector('.setup-similar-item');
@@ -49,13 +50,13 @@
       fragment.appendChild(renderWizard(wizards[i]));
     }
     similarListElement.appendChild(fragment);
-    userDialog.querySelector('.setup-similar').classList.remove('hidden');
+    setup.querySelector('.setup-similar').classList.remove('hidden');
   }
 
   renderWizards();
 
   // module4-task1
-  var setup = document.querySelector('.setup');
+
   var setupIcon = document.querySelector('.setup-open-icon');
   var setupwizardCoat = document.querySelector('.wizard-coat');
   var setupWizardFireball = document.querySelector('.setup-fireball-wrap');
@@ -130,9 +131,9 @@
   var onChangeCoatColor = function () {
     var color = getRandomValueFromArray(COATS_COLOR);
     renderRandomColor(setupwizardCoat, setupWizardCoatInput, color);
+  };
 
-    window.setup = {
+  window.setup = {
       setup: setup
-    };
   };
 })();
